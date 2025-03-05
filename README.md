@@ -9,3 +9,10 @@
 - [ ] RxJS Custom Operators
 - [ ] RxJS Error Handling
 - [ ] RxJS Operator + Reactive Design
+
+
+### Stateless Observable Services
+- service
+- http call
+- shareReplay
+- async
